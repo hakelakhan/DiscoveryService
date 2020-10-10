@@ -1,5 +1,5 @@
-# Data-Structures-Problems
-Implementation of commonly used  datastructures and their application in problem solving
+# DiscoveryService
+Discovery Service is a spring boot microservice that holds the information about all client-service applications. Every Micro service will register into this application (Eureka server) and this application knows all the client applications running on each port and IP address.
 
 My Profile Links
 
